@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.dist-info/
+# Jupyter
+.ipynb_checkpoints/
+# Environment
+.env
+.venv
+env/
+venv/
+# MacOS
+.DS_Store
+# VSCode
+.vscode/
+# Data
+data/raw/
+checkpoints/
+*.pt
+*.pth

@@ -1,0 +1,3 @@
+module_a:
+  description: Configuration for module A
+  parameters: {}
