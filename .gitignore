@@ -17,8 +17,8 @@ venv/
 # VSCode
 .vscode/
 # Data
-data/raw/
-data/processed/
+#data/raw/
+#data/processed/
 runs/
 checkpoints/
 *.pt
